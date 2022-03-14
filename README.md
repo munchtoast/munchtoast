@@ -1,7 +1,11 @@
 ## Munchtoast
 
-### Github Stats
-![Munchtoast's GitHub stats](https://github-readme-stats.vercel.app/api?username=munchtoast&show_icons=true&theme=radical)
+
+## Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munchtoast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Github Stats
+![Munchtoast's GitHub stats](https://github-readme-stats.vercel.app/api?username=munchtoast&show_icons=true&theme=radical&count_private=true)
 
 <!--
 **munchtoast/munchtoast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
