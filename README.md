@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning **React.JS, Ruby on Rails, Tensorflow, OpenCV**
 - 💼 If you have any projects that you would like to colaborate, reach out.
 - 💬 Ask me about anything!
-- ⚡ Fun fact: I'm a chronic bookworm!
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
