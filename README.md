@@ -26,8 +26,13 @@
 
 
 ## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munchtoast&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munchtoast&layout=compact&theme=radical)](https://github.com/munchtoast/github-readme-stats)
 
-## Github Stats
-![Munchtoast's GitHub stats](https://github-readme-stats.vercel.app/api?username=munchtoast&show_icons=true&theme=radical&count_private=true)
+## Languages & Github Stats
+<a href="https://github.com/munchtoast/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=munchtoast&repo=github-readme-stats&theme=radical" />
+</a>
+<a href="https://github.com/munchtoast/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=munchtoast&repo=convoychat&theme=radical" />
+</a>
 
