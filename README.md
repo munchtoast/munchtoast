@@ -29,10 +29,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munchtoast&layout=compact&theme=radical)](https://github.com/munchtoast/github-readme-stats)
 
 ## Languages & Github Stats
-<a href="https://github.com/munchtoast/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=munchtoast&repo=github-readme-stats&theme=radical" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=munchtoast&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/munchtoast/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=munchtoast&repo=convoychat&theme=radical" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=munchtoast&repo=convoychat" />
 </a>
-
